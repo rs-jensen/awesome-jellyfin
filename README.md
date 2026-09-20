@@ -254,7 +254,7 @@
 <!-- sort list:tools-subtitles -->
 - [bazarr-jellyfin](https://github.com/enoch85/bazarr-jellyfin) - Search and download subtitles directly from Jellyfin's native subtitle UI using your Bazarr instance.
 - [jellyfin-plugin-subtitleocr](https://github.com/IDisposable/jellyfin-plugin-subtitleocr) - Converts image-based subtitles (VobSub/DVD, PGS/Blu-ray) to SRT or ASS files using pattern-matching OCR.
-- [LAPSE](https://github.com/Schwponaco-org/lapse-jellyfin-plugin) - Syncs subtitles to a video's audio or to a reference subtitle track, with conversion, embedded subtitle extraction, and dyslexia-friendly styling included. `✅ JF12`
+- [LAPSE](https://github.com/Schwponaco-org/lapse-jellyfin-plugin) - Automatically fixes subtitles that are out of sync with a video's audio, and can also convert, extract, and restyle them for readability. `✅ JF12`
 - [OpenSubtitlesDownload](https://github.com/emericg/OpenSubtitlesDownload) - Automatically or manually downloads subtitles using CLI/Gnome/KDE.
 - [subgen](https://github.com/McCloudS/subgen) - Autogenerate subtitles using OpenAI Whisper Model via Jellyfin.
 
